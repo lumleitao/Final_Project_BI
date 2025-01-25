@@ -1,28 +1,36 @@
 # Final-Project-BI
 Projeto final do curso de Business Intelligence - PUC RIO
+
 Produtos Ferrero - Analise de Desempenho
+
 Aluno: Luana Martins Leitao
-Orientadora: Anderson Nascimento
+
+Orientador: Anderson Nascimento
+
 Trabalho apresentado ao curso BI MASTER como pré-requisito para conclusão de curso e obtenção de crédito na disciplina "Projetos de Sistemas Inteligentes de Apoio à Decisão".
 
 Resumo
 
-Este documento tem por objetivo coletar, analisar e definir as principais necessidades do projeto do estudo de caso " Produtos Ferrero - Analise de Desempenho ". Nele, busca-se identificar os principais produtos consumidos pelos funcionarios em cada localidade, com o intuito de avaliar possiveis açoes de marketing e descontos que possam impulsionar e maximizar as vendas.
+Este trabalho visa identificar e analisar as principais necessidades do projeto "Produtos Ferrero - Análise de Desempenho", com foco nos produtos mais consumidos pelos funcionários em diferentes localidades. O objetivo é propor ações de marketing e descontos estratégicos para impulsionar e maximizar as vendas.
 
 Abstract
+
+Ferrero is an Italian confectionery company globally renowned for the high quality of its products. Founded in 1946 in the city of Alba, Italy, in the Piedmont region, it began as a small family-run pastry shop and quickly grew into one of the world's largest manufacturers of chocolates and sweets.
+
+Famous for its iconic brands such as Nutella, Ferrero Rocher, Kinder, and Tic Tac, its products have captivated consumers of all age groups. Today, Ferrero operates in over 170 countries, continuously expanding its global presence while staying true to its family values. As part of its commitment to the local community, Ferrero has established small stores dedicated to factory employees, allowing them to benefit from discounts and cost-price access to its products.
+
+The project aims to conduct a detailed analysis of the sales performance of three stores exclusively serving employees in their respective localities. The goal is to identify trends, opportunities for improvement, and potential marketing actions to maximize sales.
+
+Introdução
 
 A Ferrero é uma empresa italiana de confeitaria reconhecida mundialmente pela alta qualidade de seus produtos. A empresa foi fundada em 1946 na cidade de Alba - Italia, na regiao de Piemonte, e o que começou como uma pequena confeitaria familiar, logo se tornou uma das maiores fabricantes de chocolates e doces do mundo.
 
 Conhecida por suas marcas iconicas tais como Nutella, Ferrero Rocher, Kinder e Tic Tac, seus produtos conquistaram consumidores de todas as faixas etarias. Atualmente a Ferrero atende mais de 170 paises, expandindo sua presença global dia apos dia, sem perder seus valores familiares. E como parte de seu comprometimento com a comunidade local, a Ferrero construiu pequenas lojas dedicada aos funcionarios de suas fabricas, para que eles possam se beneficiar de descontos e preços de custo de seus produtos.
 
-O projeto visa realizar uma analise detalhada do desempenho de vendas de tres lojas dedicadas as funcionarios, com o objetivo de identificar as tendencias, oportunidades de melhoria e possiveis açoes de marketing para maximizar as vendas.
+O projeto visa realizar uma analise detalhada do desempenho de vendas de tres lojas dedicadas exclusivamente aos funcionarios daquela localidade, com o objetivo de identificar as tendencias, oportunidades de melhoria e possiveis açoes de marketing para maximizar as vendas.
 
-1. Introdução
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin pulvinar nisl vestibulum tortor fringilla, eget imperdiet neque condimentum. Proin vitae augue in nulla vehicula porttitor sit amet quis sapien. Nam rutrum mollis ligula, et semper justo maximus accumsan. Integer scelerisque egestas arcu, ac laoreet odio aliquet at. Sed sed bibendum dolor. Vestibulum commodo sodales erat, ut placerat nulla vulputate eu. In hac habitasse platea dictumst. Cras interdum bibendum sapien a vehicula.
+Modelagem
 
-Proin feugiat nulla sem. Phasellus consequat tellus a ex aliquet, quis convallis turpis blandit. Quisque auctor condimentum justo vitae pulvinar. Donec in dictum purus. Vivamus vitae aliquam ligula, at suscipit ipsum. Quisque in dolor auctor tortor facilisis maximus. Donec dapibus leo sed tincidunt aliquam.
-
-2. Modelagem
 A modelagem multidimensional utilizada no projeto é o modelo estrela, amplamente utilizado em soluçoes de Business Intelligence (BI) para analise e visualizaçao de dados. Essa abordagem organiza as informaçoes em duas categorias principais: fatos e dimensoes.
 
 Estrutura do Modelo
@@ -57,10 +65,12 @@ Como cada dimensao possui uma chave primaria que se relaciona com a chave estran
 
 A modelagem foi implementada no Power BI, utilizando o modelo estrela para criar um dashboard interativo, onde os usuarios podem aplicar filtros nas dimensoes (por exemplo, ano, loja, produto) e explorar insights diretamente a partir das metricas calculadas.
 
-3. Resultados
+Resultados
+
 Atraves do dashboard desenvolvido, foi possivel identificar as tendencias de consumo e entender as preferencias dos consumidores, desenvolvendo estrategias de marketing e promoçoes direcionadas ao publico alvo. A facilidade na visualizaçao dos dados permitiu aos diretores e gestores acessar de forma pratica e intuitiva as informaçoes, permitindo aumentar a rapidez na tomada de decisao.
 
-4. Conclusões
+Conclusões
+
 O projeto final foi uma excelente oportunidade de estabelecer todo o processo de utilizaçao do Power BI de forma convencional, alem de implementar essa abordagem no meu trabalho atual, proporcionando maior visibilidade para as partes interessadas. Com base neste projeto, os diretores conseguem obter informaçoes de maneira rapida e intuitiva, possibilitando a criaçao de planos de açao mais eficazes e bem fundamentados.
 
 O cliente demonstrou grande satisfaçao e ficou surpreso com a proatividade e conhecimento tecnico apresentados durante o projeto, o que elevou o nivel de profissionalismo e destacou minha atuaçao na area.
